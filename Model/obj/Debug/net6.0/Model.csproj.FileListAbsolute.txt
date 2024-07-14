@@ -1,0 +1,14 @@
+E:\hoc\TongHopDemo\BaiLam\Model\bin\Debug\net6.0\Model.deps.json
+E:\hoc\TongHopDemo\BaiLam\Model\bin\Debug\net6.0\Model.runtimeconfig.json
+E:\hoc\TongHopDemo\BaiLam\Model\bin\Debug\net6.0\Model.dll
+E:\hoc\TongHopDemo\BaiLam\Model\bin\Debug\net6.0\Model.pdb
+E:\hoc\TongHopDemo\BaiLam\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+E:\hoc\TongHopDemo\BaiLam\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\hoc\TongHopDemo\BaiLam\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+E:\hoc\TongHopDemo\BaiLam\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+E:\hoc\TongHopDemo\BaiLam\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+E:\hoc\TongHopDemo\BaiLam\Model\obj\Debug\net6.0\Model.dll
+E:\hoc\TongHopDemo\BaiLam\Model\obj\Debug\net6.0\refint\Model.dll
+E:\hoc\TongHopDemo\BaiLam\Model\obj\Debug\net6.0\Model.pdb
+E:\hoc\TongHopDemo\BaiLam\Model\obj\Debug\net6.0\Model.genruntimeconfig.cache
+E:\hoc\TongHopDemo\BaiLam\Model\obj\Debug\net6.0\ref\Model.dll
